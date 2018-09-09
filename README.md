@@ -1,5 +1,5 @@
 # blog
-这是我博客的备份，也分享一些除了代码之外的想法吧，欢迎大家拍砖，[前往首页](https://www.mrdwy.com/)
+这是我博客分享一些除了代码之外的想法，欢迎大家拍砖，[前往首页](https://www.mrdwy.com/)
 
 # 文章导航
 1、[Redis分布式锁的实现](https://www.mrdwy.com/2018/09/05/redisfen-bu-shi-suo-de-shi-xian/)    
