@@ -11,3 +11,4 @@
 7、[fastjson远程代码执行漏洞解决方案](https://www.mrdwy.com/2018/06/01/fastjsonyuan-cheng-dai-ma-zhi-xing-lou-dong-jie-jue-fang-an/)    
 8、[Java并发编程：volatile关键字解析](https://www.mrdwy.com/2017/08/29/javabing-fa-bian-cheng-volatileguan-jian-zi-jie-xi/)    
 9、[关于归并排序和快速排序的测试分析](http://www.mrdwy.com/2018/09/07/guan-yu-gui-bing-pai-xu-he-kuai-su-pai-xu/)
+10、[读书有感—如何着手研究一个新问题](https://www.mrdwy.com/2018/09/18/20180918001/)
